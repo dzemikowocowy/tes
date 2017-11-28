@@ -1,0 +1,215 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" data-esr-versions="38.7.1 45.0.2" data-latest-firefox="45.0.2" dir="ltr" class="windows x86 js win7up x64 loaded"><head>
+    <meta charset="utf-8" />
+    <script type="text/javascript" async="" src="https://www.google-analytics.com/plugins/ua/linkid.js"></script><script type="text/javascript" async="" src="https://www.google-analytics.com/analytics.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-MW3R8V&amp;l=dataLayer"></script><script charset="utf-8" src="/media/js/site-bundle.3ef782a8049d.js" type="text/javascript"></script>              
+<!--
+             _.-~-.
+           7''  Q..\
+        _7         (_
+      _7  _/    _q.  /
+    _7 . ___  /VVvv-'_                                            .
+   7/ / /~- \_\\      '-._     .-'                      /       //
+  ./ ( /-~-/||'=.__  '::. '-~'' {             ___   /  //     ./{
+ V   V-~-~| ||   __''_   ':::.   ''~-~.___.-'' _/  // / {_   /  {  /
+  VV/-~-~-|/ \ .'__'. '.    '::                     _ _ _        ''.
+  / /~~~~||VVV/ /  \ )  \        _ __ ___   ___ ___(_) | | __ _   .::'
+ / (~-~-~\\.-' /    \'   \::::. | '_ ` _ \ / _ \_  / | | |/ _` | :::'
+/..\    /..\__/      '     '::: | | | | | | (_) / /| | | | (_| | ::'
+vVVv    vVVv                 ': |_| |_| |_|\___/___|_|_|_|\__,_| ''
+
+Hi there, nice to meet you!
+
+Interested in having a direct impact on hundreds of millions of users? Join
+Mozilla, and become part of a global community that’s helping to build a
+brighter future for the Web.
+
+Visit https://careers.mozilla.org to learn about our current job openings.
+Visit https://www.mozilla.org/contribute for more ways to get involved and
+help support Mozilla.-->
+
+        <meta content="width=device-width, initial-scale=1" name="viewport" />
+    <meta content="noindex" name="robots" />
+    <title>More protection. The most privacy. Only from Firefox.</title>
+    <meta content="" name="description" />
+    <meta content="website" property="og:type" />
+    <meta content="Mozilla" property="og:site_name" />
+    <meta content="en_US" property="og:locale" />
+    <meta content="https://www.mozilla.org/en-US/firefox/" property="og:url" />
+    <meta content="https://www.mozilla.org/media/img/firefox/template/page-image.af8027a425de.png" property="og:image" />
+    <meta content="Choose the independent browser" property="og:title" />
+    <meta content="Firefox is non-profit, non-corporate, non-compromised. Choosing Firefox isn’t just choosing a browser. It’s a vote for personal freedom." property="og:description" />
+    <meta content="14696440021" property="fb:page_id" />
+    <meta content="summary" name="twitter:card" />
+    <meta content="@firefox" name="twitter:site" />
+    <meta content="mozilla.org" name="twitter:domain" />
+    <meta content="Firefox" name="twitter:app:name:googleplay" />
+    <meta content="org.mozilla.firefox" name="twitter:app:id:googleplay" />
+    <meta content="Firefox" name="twitter:app:name:iphone" />
+    <meta content="989804926" name="twitter:app:id:iphone" />
+    <meta content="Firefox" name="twitter:app:name:ipad" />
+    <meta content="989804926" name="twitter:app:id:ipad" />
+    <link href="/humans.txt" type="text/plain" rel="author" />
+    <link href="/media/img/firefox/ios-icon-180.7a8401f21915.png" sizes="180x180" type="image/png" rel="apple-touch-icon" />
+    <link href="/media/img/firefox/favicon-196.223e1bcaf067.png" sizes="196x196" type="image/png" rel="icon" />
+    <link href="/media/img/firefox/favicon.dc6635050bf5.ico" rel="shortcut icon" />
+        <link href="https://www.mozilla.org/en-US/firefox/42.0/firstrun/learnmore/" hreflang="en" rel="canonical" />
+    <link href="https://www.mozilla.org/firefox/42.0/firstrun/learnmore/" hreflang="x-default" rel="alternate" />
+    <link title="Afrikaans" href="https://www.mozilla.org/af/firefox/42.0/firstrun/learnmore/" hreflang="af" rel="alternate" />
+    <link title="aragonés" href="https://www.mozilla.org/an/firefox/42.0/firstrun/learnmore/" hreflang="an" rel="alternate" />
+    <link title="عربي" href="https://www.mozilla.org/ar/firefox/42.0/firstrun/learnmore/" hreflang="ar" rel="alternate" />
+    <link title="Azərbaycanca" href="https://www.mozilla.org/az/firefox/42.0/firstrun/learnmore/" hreflang="az" rel="alternate" />
+    <link title="বাংলা (বাংলাদেশ)" href="https://www.mozilla.org/bn-BD/firefox/42.0/firstrun/learnmore/" hreflang="bn-BD" rel="alternate" />
+    <link title="বাংলা (ভারত)" href="https://www.mozilla.org/bn-IN/firefox/42.0/firstrun/learnmore/" hreflang="bn-IN" rel="alternate" />
+    <link title="Brezhoneg" href="https://www.mozilla.org/br/firefox/42.0/firstrun/learnmore/" hreflang="br" rel="alternate" />
+    <link title="Català" href="https://www.mozilla.org/ca/firefox/42.0/firstrun/learnmore/" hreflang="ca" rel="alternate" />
+    <link title="Čeština" href="https://www.mozilla.org/cs/firefox/42.0/firstrun/learnmore/" hreflang="cs" rel="alternate" />
+    <link title="Cymraeg" href="https://www.mozilla.org/cy/firefox/42.0/firstrun/learnmore/" hreflang="cy" rel="alternate" />
+    <link title="Dansk" href="https://www.mozilla.org/da/firefox/42.0/firstrun/learnmore/" hreflang="da" rel="alternate" />
+    <link title="Deutsch" href="https://www.mozilla.org/de/firefox/42.0/firstrun/learnmore/" hreflang="de" rel="alternate" />
+    <link title="Dolnoserbšćina" href="https://www.mozilla.org/dsb/firefox/42.0/firstrun/learnmore/" hreflang="dsb" rel="alternate" />
+    <link title="Ελληνικά" href="https://www.mozilla.org/el/firefox/42.0/firstrun/learnmore/" hreflang="el" rel="alternate" />
+    <link title="English (British)" href="https://www.mozilla.org/en-GB/firefox/42.0/firstrun/learnmore/" hreflang="en-GB" rel="alternate" />
+    <link title="English" href="https://www.mozilla.org/en-US/firefox/42.0/firstrun/learnmore/" hreflang="en" rel="alternate" />
+    <link title="English (Canada)" href="https://www.mozilla.org/en-US/firefox/42.0/firstrun/learnmore/" hreflang="en-CA" rel="alternate" />
+    <link title="Esperanto" href="https://www.mozilla.org/eo/firefox/42.0/firstrun/learnmore/" hreflang="eo" rel="alternate" />
+    <link title="Español (de Argentina)" href="https://www.mozilla.org/es-AR/firefox/42.0/firstrun/learnmore/" hreflang="es-AR" rel="alternate" />
+    <link title="Español (de Chile)" href="https://www.mozilla.org/es-CL/firefox/42.0/firstrun/learnmore/" hreflang="es-CL" rel="alternate" />
+    <link title="Español (de España)" href="https://www.mozilla.org/es-ES/firefox/42.0/firstrun/learnmore/" hreflang="es-ES" rel="alternate" />
+    <link title="Español (de México)" href="https://www.mozilla.org/es-MX/firefox/42.0/firstrun/learnmore/" hreflang="es-MX" rel="alternate" />
+    <link title="Eesti keel" href="https://www.mozilla.org/et/firefox/42.0/firstrun/learnmore/" hreflang="et" rel="alternate" />
+    <link title="Euskara" href="https://www.mozilla.org/eu/firefox/42.0/firstrun/learnmore/" hreflang="eu" rel="alternate" />
+    <link title="فارسی" href="https://www.mozilla.org/fa/firefox/42.0/firstrun/learnmore/" hreflang="fa" rel="alternate" />
+    <link title="suomi" href="https://www.mozilla.org/fi/firefox/42.0/firstrun/learnmore/" hreflang="fi" rel="alternate" />
+    <link title="Français" href="https://www.mozilla.org/fr/firefox/42.0/firstrun/learnmore/" hreflang="fr" rel="alternate" />
+    <link title="Frysk" href="https://www.mozilla.org/fy-NL/firefox/42.0/firstrun/learnmore/" hreflang="fy-NL" rel="alternate" />
+    <link title="Gaeilge" href="https://www.mozilla.org/ga-IE/firefox/42.0/firstrun/learnmore/" hreflang="ga-IE" rel="alternate" />
+    <link title="Gàidhlig" href="https://www.mozilla.org/gd/firefox/42.0/firstrun/learnmore/" hreflang="gd" rel="alternate" />
+    <link title="Galego" href="https://www.mozilla.org/gl/firefox/42.0/firstrun/learnmore/" hreflang="gl" rel="alternate" />
+    <link title="Avañe'ẽ" href="https://www.mozilla.org/gn/firefox/42.0/firstrun/learnmore/" hreflang="gn" rel="alternate" />
+    <link title="हिन्दी (भारत)" href="https://www.mozilla.org/hi-IN/firefox/42.0/firstrun/learnmore/" hreflang="hi-IN" rel="alternate" />
+    <link title="Hornjoserbsce" href="https://www.mozilla.org/hsb/firefox/42.0/firstrun/learnmore/" hreflang="hsb" rel="alternate" />
+    <link title="magyar" href="https://www.mozilla.org/hu/firefox/42.0/firstrun/learnmore/" hreflang="hu" rel="alternate" />
+    <link title="Հայերեն" href="https://www.mozilla.org/hy-AM/firefox/42.0/firstrun/learnmore/" hreflang="hy-AM" rel="alternate" />
+    <link title="Bahasa Indonesia" href="https://www.mozilla.org/id/firefox/42.0/firstrun/learnmore/" hreflang="id" rel="alternate" />
+    <link title="íslenska" href="https://www.mozilla.org/is/firefox/42.0/firstrun/learnmore/" hreflang="is" rel="alternate" />
+    <link title="Italiano" href="https://www.mozilla.org/it/firefox/42.0/firstrun/learnmore/" hreflang="it" rel="alternate" />
+    <link title="日本語" href="https://www.mozilla.org/ja/firefox/42.0/firstrun/learnmore/" hreflang="ja" rel="alternate" />
+    <link title="ქართული" href="https://www.mozilla.org/ka/firefox/42.0/firstrun/learnmore/" hreflang="ka" rel="alternate" />
+    <link title="Қазақ" href="https://www.mozilla.org/kk/firefox/42.0/firstrun/learnmore/" hreflang="kk" rel="alternate" />
+    <link title="ಕನ್ನಡ" href="https://www.mozilla.org/kn/firefox/42.0/firstrun/learnmore/" hreflang="kn" rel="alternate" />
+    <link title="한국어" href="https://www.mozilla.org/ko/firefox/42.0/firstrun/learnmore/" hreflang="ko" rel="alternate" />
+    <link title="Ligure" href="https://www.mozilla.org/lij/firefox/42.0/firstrun/learnmore/" hreflang="lij" rel="alternate" />
+    <link title="lietuvių kalba" href="https://www.mozilla.org/lt/firefox/42.0/firstrun/learnmore/" hreflang="lt" rel="alternate" />
+    <link title="Latviešu" href="https://www.mozilla.org/lv/firefox/42.0/firstrun/learnmore/" hreflang="lv" rel="alternate" />
+    <link title="Nederlands" href="https://www.mozilla.org/nl/firefox/42.0/firstrun/learnmore/" hreflang="nl" rel="alternate" />
+    <link title="Norsk nynorsk" href="https://www.mozilla.org/nn-NO/firefox/42.0/firstrun/learnmore/" hreflang="nn-NO" rel="alternate" />
+    <link title="Polski" href="https://www.mozilla.org/pl/firefox/42.0/firstrun/learnmore/" hreflang="pl" rel="alternate" />
+    <link title="Português (do Brasil)" href="https://www.mozilla.org/pt-BR/firefox/42.0/firstrun/learnmore/" hreflang="pt-BR" rel="alternate" />
+    <link title="Português (Europeu)" href="https://www.mozilla.org/pt-PT/firefox/42.0/firstrun/learnmore/" hreflang="pt-PT" rel="alternate" />
+    <link title="rumantsch" href="https://www.mozilla.org/rm/firefox/42.0/firstrun/learnmore/" hreflang="rm" rel="alternate" />
+    <link title="Română" href="https://www.mozilla.org/ro/firefox/42.0/firstrun/learnmore/" hreflang="ro" rel="alternate" />
+    <link title="Русский" href="https://www.mozilla.org/ru/firefox/42.0/firstrun/learnmore/" hreflang="ru" rel="alternate" />
+    <link title="slovenčina" href="https://www.mozilla.org/sk/firefox/42.0/firstrun/learnmore/" hreflang="sk" rel="alternate" />
+    <link title="Slovenščina" href="https://www.mozilla.org/sl/firefox/42.0/firstrun/learnmore/" hreflang="sl" rel="alternate" />
+    <link title="Shqip" href="https://www.mozilla.org/sq/firefox/42.0/firstrun/learnmore/" hreflang="sq" rel="alternate" />
+    <link title="Српски" href="https://www.mozilla.org/sr/firefox/42.0/firstrun/learnmore/" hreflang="sr" rel="alternate" />
+    <link title="Svenska" href="https://www.mozilla.org/sv-SE/firefox/42.0/firstrun/learnmore/" hreflang="sv-SE" rel="alternate" />
+    <link title="Türkçe" href="https://www.mozilla.org/tr/firefox/42.0/firstrun/learnmore/" hreflang="tr" rel="alternate" />
+    <link title="Українська" href="https://www.mozilla.org/uk/firefox/42.0/firstrun/learnmore/" hreflang="uk" rel="alternate" />
+    <link title="Oʻzbek tili" href="https://www.mozilla.org/uz/firefox/42.0/firstrun/learnmore/" hreflang="uz" rel="alternate" />
+    <link title="中文 (简体)" href="https://www.mozilla.org/zh-CN/firefox/42.0/firstrun/learnmore/" hreflang="zh-CN" rel="alternate" />
+    <link title="正體中文 (繁體)" href="https://www.mozilla.org/zh-TW/firefox/42.0/firstrun/learnmore/" hreflang="zh-TW" rel="alternate" />
+        
+    
+
+    <!--[if lte IE 8]>
+            <script src="/media/js/libs/html5shiv.d580a4cd1cb4.js"></script>
+    <![endif]-->
+
+    <!--[if lte IE 7]>
+            <link href="/media/css/oldIE-bundle.88a8678e3d4a.css" rel="stylesheet" type="text/css" />    <![endif]-->
+
+    <!--[if !lte IE 7]><!-->
+              <link type="text/css" rel="stylesheet" href="/media/css/responsive-bundle.76d337bd90ac.css" />    
+          <link type="text/css" rel="stylesheet" href="/media/css/firefox_whatsnew_42_a-bundle.d9fceefd56f1.css" />    <!--<![endif]-->
+
+              
+      
+              <!-- Google Tag Manager -->
+<!-- Customized for Mozilla.org-->
+<!-- Region Container: NONE -->
+<!-- Rollup Container: System Filtered -->
+<!-- Site Container: NONE -->
+<script>
+  window.dataLayer = window.dataLayer || [];
+  window.dataLayer.push({
+    //core dataLayer object goes here
+  });
+</script>
+
+<script>
+// If doNotTrack is not enabled, it is ok to add GTM
+// @see https://bugzilla.mozilla.org/show_bug.cgi?id=1217896 for more details
+if (!_dntEnabled()) {
+  (function(w,d,s,l,i,j,f,dl,k,q){
+    w[l]=w[l]||[];w[l].push({'gtm.start': new Date().getTime(),event:'gtm.js'});f=d.getElementsByTagName(s)[0];
+    k=i.length;q='//www.googletagmanager.com/gtm.js?id=@&amp;l='+(l||'dataLayer');
+    while(k--){j=d.createElement(s);j.async=!0;j.src=q.replace('@',i[k]);f.parentNode.insertBefore(j,f);}
+  }(window,document,'script','dataLayer',['GTM-MW3R8V']));
+}
+</script>
+<!-- End Google Tag Manager -->      <style type="text/css"></style></head>
+
+  <body class="html-ltr firefox-up-to-date" id="firefox-whatsnew-42">
+    <div data-global-update-firefox="Update your Firefox" data-global-previous="Previous" data-global-next="Next" data-global-close="Close" id="strings"></div>
+    <div id="outer-wrapper">
+
+        
+      <div id="wrapper">
+
+      <header id="masthead">
+  <div id="tabzilla">
+    <a data-link-name="tabzilla" data-link-type="nav" href="/en-US/">Mozilla</a>
+  </div>
+  </header>
+
+      
+                    
+      <main class="container" role="main">
+  <header>
+    <h1 data-alt="The world’s most private browsing. Only from Firefox.">More protection. <br />The most privacy. <br />Only from Firefox.</h1>
+      <a data-link-name="Try the new Private Browsing" data-link-type="button" role="button" data-highlight="privateWindow" href="/en-US/firefox/private-browsing/" class="button-flat-dark">Try the new Private Browsing</a>
+  </header>
+    <div id="tracking-protection-animation">
+  <div class="shield-container">
+    <div class="shield"></div>
+    <div class="critter top-left"></div>
+    <div class="critter arms"></div>
+    <div class="critter top-right"></div>
+    <div class="critter bottom-right"></div>
+    <div class="cloud top-left"></div>
+    <div class="cloud top-right"></div>
+    <div class="cloud bottom-right"></div>
+  </div>
+</div></main>
+
+      
+      </div><!-- close #wrapper -->
+
+        <footer role="contentinfo">
+    <a data-link-name="Mozilla" data-link-type="footer" href="/en-US/" class="logo">Mozilla</a>
+    <ul>
+      <li><a data-link-name="Privacy" data-link-type="footer" href="/en-US/privacy/">Privacy Policy</a></li>
+      <li><a data-link-name="Cookies" data-link-type="footer" href="/en-US/privacy/websites/#cookies">Cookies</a></li>
+      <li><a data-link-name="Legal" data-link-type="footer" href="/en-US/about/legal/">Legal Notices</a></li>
+    </ul>
+  </footer>
+
+    </div><!-- close #outer-wrapper -->
+
+    <!--[if IE 9]>
+      <script src="/media/js/libs/matchMedia.3fd01d1af18b.js"></script>
+    <![endif]-->
+
+          <script charset="utf-8" src="/media/js/common-bundle.bc0bac6c66af.js" type="text/javascript"></script>          <script charset="utf-8" src="/media/js/firefox_firstrun_42_learnmore-bundle.7371e7a958cf.js" type="text/javascript"></script>      
+</body></html>

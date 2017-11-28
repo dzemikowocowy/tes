@@ -1,0 +1,21 @@
+DEVICE,platformName,platformVersion,deviceName,browserName,app,appiumServerIP,appiumServerPort,bp,chromeDriverPort,bootstrapPort,selendroidPort,udid
+nexus6,Android,4.4,ZX1G424TK3,Chrome,Chrome,10.17.8.121,4744,4766,9518,4799,8084
+nexus5,Android,4.4,0ae728890298a0fd,Chrome,Chrome,127.0.0.1,4723,,,,
+galaxyS6Edge,Android,4.4,04157df45bc7e123,Chrome,Chrome,127.0.0.1,4734,4726,9517,4726,8083
+note3,Android,4.4,04157df45bc7e123,Chrome,Chrome,127.0.0.1,4723,,,,
+galaxyS4,Android,4.4,090aaadb,Chrome,Chrome,127.0.0.1,4725,4727,9516,4725,8082
+galaxyS3,Android,4.3,4df176c539ad8f53,Chrome,Chrome,10.17.8.121,4753,4757,9519,4729,8089
+genyMotion,Android,4.3,192.168.56.101:5555,Chrome,Chrome,127.0.0.1,4723,,,,
+geny_GalaxyS3,Android,4.3,192.168.56.101:5555,Chrome,Chrome,127.0.0.1,4723,,,,
+geny_GalaxyS4,Android,4.4,192.168.56.101:5555,Chrome,Chrome,127.0.0.1,4723,,,,
+LGG3,Android,5,LGD85528c82228,Chrome,Chrome,127.0.0.1,4723,,,,
+galaxyS6,Android,4.4,065157df68947b219,Chrome,Chrome,127.0.0.1,4773,4777,9576,4775,8086
+htcM8,Android,4.4,SH48FWM00673,Chrome,Chrome,127.0.0.1,4723,,,,
+localAndroid,Android,4.4,2fba9746,Chrome,Chrome,127.0.0.1,4723,,,,
+iPhone6Plus,ios,8.4,iPhone6Plus,Safari,Safari,10.17.8.172,4723,,,,9285c264a00455134d31e698ed542463bdaff43c
+iPad,ios,8.4,iPad 4 (8.4),Safari,Safari,10.17.8.172,4723,,,,9a9e086f6213451acbb7b608706fa946fef02166
+iPad2Sim,iOS,8.4,iPad 2,Safari,Safari,10.17.8.172,4723,,,,
+iPhone6Sim,iOS,8.4,iPhone 6,Safari,Safari,10.180.18.87,4733,,,,
+iPhone6WinSim,windows,7,Apple iPhone 6,Chrome,Chrome,10.180.18.93,4444,,,,
+nexus7,Android,5.1,015d24a409181610,Chrome,Chrome,10.180.18.93,4723,,,,
+IphoneSix,windows,7,Apple iPhone 6,Chrome,Chrome,127.0.0.1,4444,,,,

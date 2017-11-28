@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en"><head>
+    <meta charset="UTF-8" />
+    <meta content="user-scalable=no,width=device-width,initial-scale=1,maximum-scale=1,minimal-ui" name="viewport" />
+    <link href="http://cmssports.staticcache.org/assets/css_file/0004/147991/main.css" rel="stylesheet" />
+</head>
+<body>
+<header>
+    <div class="primary">
+        <h1 class="whlogo"></h1>
+    </div>
+</header>
+<main>
+    <section class="error-container">
+        <i class="error-browser-sprite"></i>
+        <h1>TIME FOR AN UPDATE</h1>
+        <p>Time to update your browser.</p>
+        <p>The one that you are using will not work too well with the site.</p>
+        <a title="Need Help" target="_blank" href="https://williamhill-lang.custhelp.com/app/answers/list" class="help-button">Need Help?</a>
+        <p>
+            <a title="Continue to site" href="javascript:void(0);" id="continue-to-site">Continue to site</a>
+        </p>
+    </section>
+</main>
+<footer class="footer__main">
+    <div class="footer__wrapper">
+        <section class="leftPanel">
+            <aside class="copyright">© 1998- 2015 WHG (International) Ltd</aside>
+            <ul class="links">
+                <li>
+                    <a title="Terms &amp; Conditions" target="_blank" href="https://williamhill-lang.custhelp.com/app/answers/detail/a_id/6719/">Terms &amp; Conditions</a>
+                </li>
+                <li>
+                    <a title="Privacy Policy" target="_blank" href="https://williamhill-lang.custhelp.com/app/answers/detail/a_id/6721/">Privacy Policy</a>
+                </li>
+                <li>
+                    <a title="Rules" target="_blank" href="https://williamhill-lang.custhelp.com/app/answers/detail/a_id/2063/">Rules</a>
+                </li>
+                <li>
+                    <a title="Help" target="_blank" href="https://williamhill-lang.custhelp.com/app/answers/list">Help</a>
+                </li>
+                <li>
+                    <a title="Contact Us" target="_blank" href="https://williamhill-lang.custhelp.com/app/answers/detail/a_id/5566/">Contact Us</a>
+                </li>
+                <li>
+                    <a title="William Hill Press Office" target="_blank" href="http://www.williamhillplc.com/">William Hill Press Office</a>
+                </li>
+                <li>
+                    <a title="Your Feedback" target="_blank" href="https://secure.opinionlab.com/ccc01/o.asp?id=NTNVhiKQ&amp;referer=http://sports.williamhill.com/">Your Feedback</a>
+                </li>
+                <li class="-hidden-functionality -hidden-functionality--inline-block">
+                    <a title="Shop Locator" target="" href="http://www.williamhill.com/shop-locator/">Shop Locator</a>
+                </li>
+                <li>
+                    <a title="Jobs &amp; Careers" target="_blank" href="http://careers.williamhillplc.com/">Jobs &amp; Careers</a>
+                </li>
+                <li>
+                    <a title="About William Hill" target="_blank" href="http://www.williamhillplc.com/">About William Hill</a>
+                </li>
+                <li>
+                    <a title="Affiliate Program" target="_blank" href="http://www.affutd.com/">Affiliate Program</a>
+                </li>
+            </ul>
+        </section>
+        <section class="rightPanel">
+            <ul class="paymentMethods inlineList">
+                <li>
+                    <a title="Visa" target="_blank" href="https://williamhill-lang.custhelp.com/app/answers/detail/a_id/2651/"><i class="visa-sprite"></i></a>
+                </li>
+                <li>
+                    <a title="MasterCard" target="_blank" href="https://williamhill-lang.custhelp.com/app/answers/detail/a_id/2651/"><i class="mastercard-sprite"></i></a>
+                </li>
+                <li>
+                    <a title="Maestro" target="_blank" href="https://williamhill-lang.custhelp.com/app/answers/detail/a_id/2651/"><i class="maestro-sprite"></i></a>
+                </li>
+                <li>
+                    <a title="PayPal" target="_blank" href="https://williamhill-lang.custhelp.com/app/answers/detail/a_id/2651/"><i class="paypal-sprite"></i></a>
+                </li>
+                <li>
+                    <a title="Skrill" target="_blank" href="https://williamhill-lang.custhelp.com/app/answers/detail/a_id/2651/"><i class="skrill-sprite"></i></a>
+                </li>
+            </ul>
+            <p class="respGambling">William Hill is committed to supporting <a title="Responsible Gaming" target="_blank" href="https://williamhill-lang.custhelp.com/app/answers/detail/a_id/2733/">Responsible Gaming</a>. Underage gambling is an offence.</p>
+            <ul class="clearfix gambling-links inlineList">
+                <li>
+                    <a title="18 Plus" target="_blank" href="https://williamhill-lang.custhelp.com/app/answers/detail/a_id/2960/"><i class="icon-and-over"></i></a>
+                </li>
+                <li>
+                    <a title="Gambleaware" target="_blank" href="http://www.gambleaware.co.uk/"><i class="icon-gamble-aware"></i></a>
+                </li>
+                <li>
+                    <a title="Gamcare" target="_blank" href="http://www.gamcare.org.uk/"><i class="icon-gamcare"></i></a>
+                </li>
+                <li>
+                    <a title="Gamers Anonymous" target="_blank" href="http://www.gamblersanonymous.org.uk/"><i class="icon-gamblers-anonymous"></i></a>
+                </li>
+                <li>
+                    <a title="Gamblers Therapy" target="_blank" href="http://www.gamblingtherapy.org/"><i class="icon-gambling-therapy"></i></a>
+                </li>
+                <li>
+                    <a title="Responsible Gambling Trust" target="_blank" href="http://www.responsiblegamblingtrust.org.uk/"><i class="icon-responsible-gambling-trust"></i></a>
+                </li>
+                <li>
+                    <a title="GBGA" target="_blank" href="http://www.gbga.gi/"><i class="icon-gbga"></i></a>
+                </li>
+                <li>
+                    <a title="When the fun stops" target="_blank" href="http://www.gambleaware.co.uk/"><i class="whenthefunstops-sprite"></i></a>
+                </li>
+            </ul>
+            <p class="cookies">By accessing, continuing to use, or navigating throughout this site you accept that we will utilise certain browser cookies to improve the experience which
+            you receive with us. William Hill do not use any cookies which interfere with your privacy, but only ones which will improve your experience whilst using our site, please
+            refer to our <a href="#">FAQs</a> for further information on our use of cookies and how you prevent their use should you wish.</p>
+            <article class="legal">
+                <p>William Hill is operated by WHG (International) Limited, a company registered in Gibraltar. William Hill is licensed and regulated by the <a title="UK Gambling Commission" target="_blank" href="http://www.gamblingcommission.gov.uk/">UK Gambling Commission</a> (<a target="_blank" href="https://secure.gamblingcommission.gov.uk/gccustomweb/PublicRegister/PRSearch.aspx?ExternalAccountId=39225">Number: 000-039225 R-319373-001</a>) for customers
+                in Great Britain, and licensed by the Gibraltar Government and regulated by the <a title="Gibraltar Gambling Commissioner" target="_blank" href="https://www.gibraltar.gov.gi/remotegambling">Gibraltar Gambling Commissioner</a> (RGL no. 034 &amp; 042) for all other customers.</p>
+                <p>The registered office of William Hill is at 6/1 Waterport Place, Gibraltar, with registered company number 99191. William Hill is a registered <a target="_blank" href="http://www.ibas-uk.com">I.B.A.S.</a> bookmaker.</p>
+            </article>
+        </section>
+    </div>
+</footer>
+<script src="http://cmssports.staticcache.org/assets/js_file/0006/147975/main.js" type="text/javascript"></script>
+
+</body></html>

@@ -1,0 +1,94 @@
+<!DOCTYPE html><!--[if lte IE 9]> <html class="no-js ieold" lang="en"> <![endif]--><!--[if gt IE 9]><!--><html xmlns="http://www.w3.org/1999/xhtml" lang="en"><!--<![endif]--><head><script src="https://cwf.staticcache.org/scripts/tracking/1.9.3/wh_tracking.min.js" async="" type="text/javascript"></script><script src="https://nexus.ensighten.com/williamhill/mobile/code/2c33a4090ddccc944b369b00b9226ab8.js?conditionId0=209495"></script><script type="text/javascript" async="" src="https://nexus.ensighten.com/williamhill/mobile/code/01fd68490de6923251e430ba7d22f47d.js?conditionId0=439223"></script><script src="https://nexus.ensighten.com/williamhill/mobile/serverComponent.php?r=687867890.3330791&amp;ClientID=154&amp;PageID=https%3A%2F%2Fauth.williamhill.com%2Fcas%2Flogin%3Fservice%3Dhttps%253A%252F%252Fgaming.williamhill.com%252Flaunch%252Fvegas2%252FWishUponAJackpotMobile%253Fchannel%253Ddesktop%2526gameCode%253DU6EN%26cust_login%3Dtrue%26joinin_link%3Dhttp%253A%252F%252Fwilliamhill.com"></script>
+    <title>William Hill – Log In</title>
+    <meta charset="UTF-8" />
+    <meta name="Version" value="2.1.20-live_A" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" />
+    <link rel="shortcut icon" href="/cas/favicon.ico" />
+    <link href="/cas/themes/whInhouseMobile/wh.css" rel="stylesheet" />
+    <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="https://ajax.googleapis.com/ajax/libs/jquery/1.6.4/jquery.min.js"></script>
+    <script>jQuery(document).ready(function () {
+        jQuery('.back-arrow img').click(function () {
+            jQuery(this).attr("src", "/cas/images/loading.gif");
+        });
+    })</script>
+    <script src="//cmscdn.staticcache.org/assets/js_file/0009/263394/wh-help.js?v=0.1.15" async=""></script>
+    <script type="text/javascript">
+        // strHelpLang is used to form the help links
+        var strHelpLang = "en";
+    </script>
+    <script src="//nexus.ensighten.com/williamhill/mobile/Bootstrap.js"></script><style>.mboxDefault { visibility:hidden; }</style>
+    <script src="/cas/themes/responsive/lib/googleAnalytics.js"></script>
+</head>
+<body>
+
+<!-- header elements -->
+<!-- 'RIGA' header -->
+        <header class="header__min">
+            <div class="header__wrapper">
+                <h1 class="header__logo whlogo"></h1>
+                <aside class="header__join">
+                        <a class="button -join -small" href="http://williamhill.com" id="join-button" data-eventtrack="JoinNow">Join</a>
+                    </aside>
+                </div>
+        </header>
+
+    <!-- form elements -->
+<!-- 'RIGA' form -->
+    <div id="content" class="content__wrapper">
+        <form id="fm1" class="login__form -body" data-ajax="false" action="/cas/login;jsessionid=93755A535B37CBCCBD111F12F54EE126.gibux5711?service=https%3A%2F%2Fgaming.williamhill.com%2Flaunch%2Fvegas2%2FWishUponAJackpotMobile%3Fchannel%3Ddesktop%26gameCode%3DU6EN&amp;cust_login=true&amp;joinin_link=http%3A%2F%2Fwilliamhill.com" method="post" novalidate="novalidate"><fieldset class="inline-inputs">
+                <div class="cw">
+                    <input id="username" name="username" class="input" tabindex="1" placeholder="Username" autocapitalize="off" type="text" value="" autocomplete="off" /><label for="username" class="fix__placeholder -username">Username</label>
+                    <input id="password" name="password" class="input" tabindex="2" placeholder="Password" type="password" value="" autocomplete="off" /><label for="password" class="fix__placeholder -password">Password</label>
+
+                    <input type="hidden" name="lt" value="LT-672033-J6aSvXeoq2EiBeUqc96rpA40QT5ecL" />
+                    <input type="hidden" name="execution" value="e1s1" />
+                    <input type="hidden" name="_eventId" value="submit" />
+
+                    <div class="button -small -clear hidden">    <i class="spinner icon-spinner"></i>    </div>
+
+                    <button data-role="button" data-theme="b" class="button -form -small" id="login-button" tabindex="3" type="submit">
+                        Log In</button>
+                </div>
+
+                <aside class="form__validation" id="serverside_errors">
+                    </aside>
+                <aside class="form__validation" id="js__validation_feedback">
+                    <div id="firstErrorMessage"></div>
+                    <div id="lastErrorMessage"></div>
+                </aside>
+
+            </fieldset>
+            <fieldset class="input-checkboxes">
+                <label class="input__rememberme">
+                    <input id="rememberUsername" name="rememberUsername" tabindex="5" onclick="javascript:onRememberUsernameSelectionChange(this);" data-role="none" data-theme="a" type="checkbox" value="true" /><input type="hidden" name="_rememberUsername" value="on" />Remember username</label>
+                </fieldset>
+            <footer class="account__footer">
+                <a href="https://sports.williamhill.com/mob/en-gb?action=GoLostLogin&amp;redirect_url=https%3A%2F%2Fauth.williamhill.com%2Fcas%2Flogin%3Fservice%3Dhttps%253A%252F%252Fgaming.williamhill.com%252Flaunch%252Fvegas2%252FWishUponAJackpotMobile%253Fchannel%253Ddesktop%2526gameCode%253DU6EN%26cust_login%3Dtrue%26joinin_link%3Dhttp%253A%252F%252Fwilliamhill.com" class="body__link" data-trk-grid="1" data-trk-cta="attached">Retrieve your login</a>
+            </footer>
+        </form></div>
+<!-- footer elements -->
+    <!-- 'RIGA' footer -->
+    <footer class="footer">
+        <div class="footer__wrapper">
+
+            <section class="leftPanel">
+                <aside class="copyright ">
+                    © 1998-2016WHG (International) Ltd</aside>
+                <ul class="links"><li><a title="Terms &amp; Conditions" href="javascript:whHelp.faq2('6719');">Terms &amp; Conditions</a></li><li><a title="Privacy Policy" href="javascript:whHelp.faq2('6721');">Privacy Policy</a></li><li><a title="Rules" href="javascript:whHelp.faq2('2063');">Rules</a></li><li><a title="Help" href="javascript:whHelp.root();">Help</a></li><li><a title="Rules" href="javascript:whHelp.faq2('9429');">Legal</a></li><li><a title="Contact Us" href="javascript:whHelp.faq2('5566');">Contact Us</a></li></ul></section>
+
+            <section class="rightPanel">
+                <p class="respGambling">William Hill is committed to supporting <a href="javascript:whHelp.faq2('2733');">Responsible Gaming</a>. Underage gambling is an offence.</p><ul class="clearfix gambling-links inlineList"><li><a title="18 Plus" href="javascript:whHelp.faq2('2960');"><i class="icon-and-over"></i></a></li><li><a title="Gambleaware" target="_blank" href="http://www.gambleaware.co.uk/"><i class="icon-gamble-aware"></i></a></li><li><a title="Gamcare" target="_blank" href="http://www.gamcare.org.uk/"><i class="icon-gamcare"></i></a></li><li><a title="Gamblers Therapy" target="_blank" href="https://www.gamblingtherapy.org/"><i class="icon-gambling-therapy"></i></a></li><li><a target="blank" href="http://www.responsiblegamblingtrust.org.uk/" title="Responsible Gambling Trust"><i class="icon-responsible-gambling-trust"></i></a></li><li><a target="blank" href="http://www.gbga.gi/" title="GBGA"><i class="icon-gbga"></i></a></li></ul><article class="legal"><p>William Hill is operated by WHG (International) Limited, a company registered in Gibraltar. William Hill is licenced and regulated by the <a href="https://www.gamblingcommission.gov.uk" target="_blank">Gambling Commission</a> (<a href="https://secure.gamblingcommission.gov.uk/gccustomweb/PublicRegister/PRSearch.aspx?ExternalAccountId=39225" target="_blank">licence number 000-039225 R-319373-001</a>) for customers in Great Britain, and licenced by the Gibraltar Government and regulated by the <a href="https://www.gibraltar.gov.gi/remotegambling" target="_blank">Gibraltar Gambling Commissioner</a> (RGL no. 034 &amp; 042) for all other customers</p><p>The registered office of William Hill is at 6/1 Waterport Place, Gibraltar, with registered company number 99191. William Hill is a registered <a href="http://www.ibas-uk.com" target="_blank">I.B.A.S.</a> bookmaker.</p></article></section>
+        </div>
+    </footer>
+    <!-- do we want this in a WH CDN..? -->
+	    <script src="//cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.11.1/jquery.validate.min.js"></script>
+	    <script src="//cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.11.1/additional-methods.min.js"></script>
+	    <script src="/cas/themes/responsive/lib/rules.js"></script>
+	    <script type="text/javascript">
+	        $(document).ready(function () {
+	            init('UA-25322811-1', '.williamhill.com');
+	        });
+	    </script>
+    
+<script src="https://williamhill.tt.omtrdc.net/m2/williamhill/sc/standard?mboxHost=auth.williamhill.com&amp;mboxSession=1467727938321-661098&amp;mboxPage=1467727938321-661098&amp;screenHeight=1050&amp;screenWidth=1680&amp;browserWidth=1680&amp;browserHeight=949&amp;browserTimeOffset=120&amp;colorDepth=24&amp;mboxCount=1&amp;mbox=SiteCatalyst%3A%20event&amp;mboxId=0&amp;mboxTime=1467735138680&amp;visitorNamespace=williamhill&amp;channel=auth&amp;events=event81&amp;linkName=Login%20function%20opened&amp;linkType=o&amp;resolution=1680x1050&amp;javascriptVersion=1.6&amp;javaEnabled=N&amp;cookiesEnabled=Y&amp;pe=lnk_o&amp;pev2=Login%2520function%2520opened&amp;trackDownloadLinks=true&amp;trackExternalLinks=true&amp;trackInlineStats=true&amp;linkLeaveQueryString=true&amp;linkDownloadFileTypes=exe%2Czip%2Cwav%2Cmp3%2Cmov%2Cmpg%2Cavi%2Cwmv%2Cpdf%2Cdoc%2Cdocx%2Cxls%2Cxlsx%2Cppt%2Cpptx&amp;linkInternalFilters=williamhill.com%2C%20williamhill.it%2Cwilliamhill.es%2Cjavascript%3A%2Cauth.williamhill.com&amp;linkTrackVars=events%2ClinkTrackVars%2ClinkTrackEvents%2Cevents&amp;linkTrackEvents=event81&amp;prop17=tue%7C14%3A12&amp;prop19=first%20visit&amp;mboxURL=https%3A%2F%2Fauth.williamhill.com%2Fcas%2Flogin%3Fservice%3Dhttps%253A%252F%252Fgaming.williamhill.com%252Flaunch%252Fvegas2%252FWishUponAJackpotMobile%253Fchannel%253Ddesktop%2526gameCode%253DU6EN%26cust_login%3Dtrue%26joinin_link%3Dhttp%253A%252F%252Fwilliamhill.com&amp;mboxReferrer=http%3A%2F%2Fsports.williamhill-pp2.com%2Fbetting%2Fen-gb&amp;mboxVersion=55&amp;scPluginVersion=1"></script><script src="https://williamhill.tt.omtrdc.net/m2/williamhill/sc/standard?mboxHost=auth.williamhill.com&amp;mboxSession=1467727938321-661098&amp;mboxPage=1467727938321-661098&amp;screenHeight=1050&amp;screenWidth=1680&amp;browserWidth=1680&amp;browserHeight=949&amp;browserTimeOffset=120&amp;colorDepth=24&amp;mboxCount=2&amp;mbox=SiteCatalyst%3A%20event&amp;mboxId=1&amp;mboxTime=1467735139094&amp;visitorNamespace=williamhill&amp;channel=auth&amp;resolution=1680x1050&amp;javascriptVersion=1.6&amp;javaEnabled=N&amp;cookiesEnabled=Y&amp;trackDownloadLinks=true&amp;trackExternalLinks=true&amp;trackInlineStats=true&amp;linkLeaveQueryString=true&amp;linkDownloadFileTypes=exe%2Czip%2Cwav%2Cmp3%2Cmov%2Cmpg%2Cavi%2Cwmv%2Cpdf%2Cdoc%2Cdocx%2Cxls%2Cxlsx%2Cppt%2Cpptx&amp;linkInternalFilters=williamhill.com%2C%20williamhill.it%2Cwilliamhill.es%2Cjavascript%3A%2Cauth.williamhill.com&amp;linkTrackEvents=None&amp;prop17=tue%7C14%3A12&amp;prop19=first%20visit&amp;mboxURL=https%3A%2F%2Fauth.williamhill.com%2Fcas%2Flogin%3Fservice%3Dhttps%253A%252F%252Fgaming.williamhill.com%252Flaunch%252Fvegas2%252FWishUponAJackpotMobile%253Fchannel%253Ddesktop%2526gameCode%253DU6EN%26cust_login%3Dtrue%26joinin_link%3Dhttp%253A%252F%252Fwilliamhill.com&amp;mboxReferrer=http%3A%2F%2Fsports.williamhill-pp2.com%2Fbetting%2Fen-gb&amp;mboxVersion=55&amp;scPluginVersion=1"></script></body></html>

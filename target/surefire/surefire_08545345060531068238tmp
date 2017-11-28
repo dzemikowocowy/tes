@@ -1,0 +1,12 @@
+#surefire_0
+#Wed May 04 13:06:49 CEST 2016
+grid=true
+cucumber.options=--tags   @inPlay --tags  ~@deferred --tags  ~@manual
+logLevel=info
+browser=chrome
+idea.version=15.0.2
+env=pp1
+user.dir=C\:\\Users\\michalk\\FuryTests
+localRepository=C\:\\Users\\michalk\\.m2\\repository
+test=SimpleRunnerTest
+basedir=C\:\\Users\\michalk\\FuryTests
